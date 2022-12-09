@@ -1,2 +1,3 @@
-# Clasificador-SVM-de-se-ales-EMG
+# Instituto Tecnológico de Tijuana
+###### <sub> </sub>
 Trabajo final para la materia de Sensores y Actuadores.
